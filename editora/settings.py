@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-&6!60n5-(f%ws_)f=q33*!(+kau&e_n#t@tjn16k_)jqww9kh5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['tecweb-projeto-exemplo-xyma.onrender.com/', 'localhost', '127.0.0.1', '0.0.0.0']
 
